@@ -2,8 +2,11 @@
 
 <div style="border-bottom: 2px solid rgba(255, 255, 255, 0.6); margin-bottom: 8px;"></div>
 
-## Daily Challenges 
+## Daily Challenges
+
 - [Add Binary](./Daily%20Challenges/Add%20Binary/main.js)
+- [Two Sum](./Daily%20Challenges/Two%20Sum/main.js)
+- [Add Two Numbers](./Daily%20Challenges/Add%20Two%20Numbers/main.js)
 
 ## Algorithm
 
