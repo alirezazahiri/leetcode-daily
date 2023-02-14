@@ -6,4 +6,7 @@
 - [Add Binary](./Daily%20Challenges/67.%20Add%20Binary/main.js)
 
 ## Algorithm
-- [Binary Search](./Algorithm%20I/Binary%20Search/main.js)
+
+- Day 1
+  - [Binary Search](./Algorithm%20I/Binary%20Search/main.js)
+  - [First Bad Version](./Algorithm%20I/First%20Bad%20Version/main.js)
