@@ -3,10 +3,11 @@
 <div style="border-bottom: 2px solid rgba(255, 255, 255, 0.6); margin-bottom: 8px;"></div>
 
 ## Daily Challenges 
-- [Add Binary](./Daily%20Challenges/67.%20Add%20Binary/main.js)
+- [Add Binary](./Daily%20Challenges/Add%20Binary/main.js)
 
 ## Algorithm
 
 - Day 1
   - [Binary Search](./Algorithm%20I/Binary%20Search/main.js)
   - [First Bad Version](./Algorithm%20I/First%20Bad%20Version/main.js)
+  - [Search Insert Position](./Algorithm%20I/First%20Bad%20Version/main.js)
