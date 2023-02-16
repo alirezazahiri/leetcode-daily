@@ -25,4 +25,4 @@
 
 - Day 3
   - [Move Zeroes](./Algorithm%20I/Move%20Zeroes/main.js)
-  - [Two Sum || - Array is Sorted](./Algorithm%20I/Two%20Sum%20II%20-%20Array%20is%20Sorted/main.js)
+  - [Two Sum II - Array is Sorted](./Algorithm%20I/Two%20Sum%20II%20-%20Array%20is%20Sorted/main.js)
