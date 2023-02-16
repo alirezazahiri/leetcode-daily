@@ -13,10 +13,16 @@
 ## Algorithm
 
 - Day 1
+
   - [Binary Search](./Algorithm%20I/Binary%20Search/main.js)
   - [First Bad Version](./Algorithm%20I/First%20Bad%20Version/main.js)
   - [Search Insert Position](./Algorithm%20I/First%20Bad%20Version/main.js)
 
 - Day 2
+
   - [Squares Of A Sorted Array](./Algorithm%20I/Squares%20Of%20A%20Sorted%20Array/main.js)
   - [Rotate Array](./Algorithm%20I/Rotate%20Array/main.js)
+
+- Day 3
+  - [Move Zeroes](./Algorithm%20I/Move%20Zeroes/main.js)
+  - [Two Sum || - Array is Sorted](./Algorithm%20I/Two%20Sum%20II%20-%20Array%20is%20Sorted/main.js)
