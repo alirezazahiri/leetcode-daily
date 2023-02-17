@@ -25,5 +25,10 @@
   - [Rotate Array](./Algorithm%20I/Rotate%20Array/main.js)
 
 - Day 3
+
   - [Move Zeroes](./Algorithm%20I/Move%20Zeroes/main.js)
   - [Two Sum II - Array is Sorted](./Algorithm%20I/Two%20Sum%20II%20-%20Array%20is%20Sorted/main.js)
+
+- Day 4
+  - [Reverse String](./Algorithm%20I/Reverse%20String/main.js)
+  - [Reverse Words in a String III](./Algorithm%20I/Reverse%20Words%20in%20a%20String%20III/main.js)
