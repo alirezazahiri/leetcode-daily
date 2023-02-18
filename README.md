@@ -33,3 +33,7 @@
 - Day 4
   - [Reverse String](./Algorithm%20I/Reverse%20String/main.js)
   - [Reverse Words in a String III](./Algorithm%20I/Reverse%20Words%20in%20a%20String%20III/main.js)
+
+- Day 5
+  - [Middle of the Linked List](./Algorithm%20I/Middle%20of%20the%20Linked%20List/main.js)
+  - [Remove Nth Node From End of List](./Algorithm%20I/Remove%20Nth%20Node%20From%20End%20of%20List/)
