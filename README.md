@@ -10,6 +10,7 @@
 - [Add To Array Form Of Integer](./Daily%20Challenges/Add%20To%20Array%20Form%20Of%20Integer/main.js)
 - [Maximum Depth of Binary Tree](./Daily%20Challenges/Maximum%20Depth%20of%20Binary%20Tree/main.js)
 - [Minimum Distance Between BST Nodes](./Daily%20Challenges/Minimum%20Distance%20Between%20BST%20Nodes/main.js)
+- [Invert Binary Tree](./Daily%20Challenges/Invert%20Binary%20Tree/main.js)
 
 ## Algorithm
 
