@@ -46,3 +46,7 @@
 - Day 6
   - [Longest Substring Without Repeating Characters](./Algorithm%20I/Longest%20Substring%20Without%20Repeating%20Characters/main.js)
   - [Permutation in String](./Algorithm%20I/Permutation%20in%20String/main.js)
+
+- Day 7
+  - [Flood Fill](./Algorithm%20I/Flood%20Fill/main.js)
+  - [Max Area of Island](./Algorithm%20I/Max%20Area%20of%20Island/main.js)
