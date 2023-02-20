@@ -15,8 +15,6 @@
 
 ## Algorithms
 
-<hr>
-
 ## :one: *Algorithm I*
 
 - Day 1
