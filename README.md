@@ -13,7 +13,11 @@
 - [Invert Binary Tree](./Daily%20Challenges/Invert%20Binary%20Tree/main.js)
 - [Binary Tree Zigzag Level Order Traversal](./Daily%20Challenges/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/main.js)
 
-## Algorithm
+## Algorithms
+
+<hr>
+
+## :one: *Algorithm I*
 
 - Day 1
 
