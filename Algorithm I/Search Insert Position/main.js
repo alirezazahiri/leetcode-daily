@@ -18,3 +18,10 @@ var searchInsert = function (nums, target) {
   if (target > nums[left]) return left + 1;
   return left;
 };
+
+/* SOLUTION 2 */
+var searchInsert = function (nums, target) {
+  if (nums.includes(target)) return nums.findIndex((val) => val == target);
+  const idx = nums.findIndex((val) => val > target);
+  return idx == -1 ? nums.length : idx;
+};
