@@ -12,6 +12,7 @@
 - [Minimum Distance Between BST Nodes](./Daily%20Challenges/Minimum%20Distance%20Between%20BST%20Nodes/main.js)
 - [Invert Binary Tree](./Daily%20Challenges/Invert%20Binary%20Tree/main.js)
 - [Binary Tree Zigzag Level Order Traversal](./Daily%20Challenges/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/main.js)
+- [Single Element in a Sorted Array](./Daily%20Challenges/Single%20Element%20in%20a%20Sorted%20Array/main.js)
 
 ## Algorithms
 
