@@ -16,7 +16,7 @@
 
 ## Algorithms
 
-## :one: *Algorithm I*
+## :one: _Algorithm I_
 
 - Day 1
 
@@ -45,9 +45,15 @@
   - [Remove Nth Node From End of List](./Algorithm%20I/Remove%20Nth%20Node%20From%20End%20of%20List/)
 
 - Day 6
+
   - [Longest Substring Without Repeating Characters](./Algorithm%20I/Longest%20Substring%20Without%20Repeating%20Characters/main.js)
   - [Permutation in String](./Algorithm%20I/Permutation%20in%20String/main.js)
 
 - Day 7
+
   - [Flood Fill](./Algorithm%20I/Flood%20Fill/main.js)
   - [Max Area of Island](./Algorithm%20I/Max%20Area%20of%20Island/main.js)
+
+- Day 8
+  - [Merge Two Binary Trees](./Algorithm%20I/Merge%20Two%20Binary%20Trees/main.js)
+  - [Populating Next Right Pointers in Each Node](./Algorithm%20I/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/main.js)
