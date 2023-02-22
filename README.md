@@ -58,3 +58,7 @@
 - Day 8
   - [Merge Two Binary Trees](./Algorithm%20I/Merge%20Two%20Binary%20Trees/main.js)
   - [Populating Next Right Pointers in Each Node](./Algorithm%20I/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/main.js)
+
+- Day 9
+  - [01 Matrix](./Algorithm%20I/01%20Matrix/main.js)
+  - [Rotting Oranges](./Algorithm%20I/Rotting%20Oranges/main.js)
