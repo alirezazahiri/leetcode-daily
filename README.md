@@ -14,6 +14,7 @@
 - [Binary Tree Zigzag Level Order Traversal](./Daily%20Challenges/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/main.js)
 - [Single Element in a Sorted Array](./Daily%20Challenges/Single%20Element%20in%20a%20Sorted%20Array/main.js)
 - [Capacity To Ship Packages Within D Days](./Daily%20Challenges/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/main.js)
+- [IPO](./Daily%20Challenges/IPO/main.js)
 
 ## Algorithms
 
