@@ -67,7 +67,12 @@
   - [01 Matrix](./Algorithm%20I/01%20Matrix/main.js)
   - [Rotting Oranges](./Algorithm%20I/Rotting%20Oranges/main.js)
 
-- Day 9
+- Day 10
+
   - [Merge Two Sorted Lists](./Algorithm%20I/Merge%20Two%20Sorted%20Lists/main.js)
   - [Reverse Linked List](./Algorithm%20I/Reverse%20Linked%20List/main.js)
 
+- Day 11
+  - [Combinations](./Algorithm%20I/Combinations/main.js)
+  - [Permutations](./Algorithm%20I/Permutations/main.js)
+  - [Letter Case Permutation](./Algorithm%20I/Letter%20Case%20Permutation/main.js)
