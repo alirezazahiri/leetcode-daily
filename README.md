@@ -15,6 +15,7 @@
 - [Single Element in a Sorted Array](./Daily%20Challenges/Single%20Element%20in%20a%20Sorted%20Array/main.js)
 - [Capacity To Ship Packages Within D Days](./Daily%20Challenges/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/main.js)
 - [IPO](./Daily%20Challenges/IPO/main.js)
+- [Minimize Deviation in Array](./Daily%20Challenges/Minimize%20Deviation%20in%20Array/main.js)
 
 ## Algorithms
 
@@ -69,3 +70,4 @@
 - Day 9
   - [Merge Two Sorted Lists](./Algorithm%20I/Merge%20Two%20Sorted%20Lists/main.js)
   - [Reverse Linked List](./Algorithm%20I/Reverse%20Linked%20List/main.js)
+
