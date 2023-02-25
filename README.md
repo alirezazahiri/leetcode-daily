@@ -77,3 +77,8 @@
   - [Combinations](./Algorithm%20I/Combinations/main.js)
   - [Permutations](./Algorithm%20I/Permutations/main.js)
   - [Letter Case Permutation](./Algorithm%20I/Letter%20Case%20Permutation/main.js)
+
+- Day 12
+  - [Climbing Stairs](./Algorithm%20I/Climbing%20Stairs/main.js)
+  - [House Robber](./Algorithm%20I/House%20Robber/main.js)
+  - [Triangle](./Algorithm%20I/Triangle/main.js)
