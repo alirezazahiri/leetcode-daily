@@ -16,6 +16,7 @@
 - [Capacity To Ship Packages Within D Days](./Daily%20Challenges/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/main.js)
 - [IPO](./Daily%20Challenges/IPO/main.js)
 - [Minimize Deviation in Array](./Daily%20Challenges/Minimize%20Deviation%20in%20Array/main.js)
+- [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
 
 ## Algorithms
 
