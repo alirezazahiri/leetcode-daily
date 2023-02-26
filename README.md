@@ -81,6 +81,11 @@
   - [Letter Case Permutation](./Algorithm%20I/Letter%20Case%20Permutation/main.js)
 
 - Day 12
+
   - [Climbing Stairs](./Algorithm%20I/Climbing%20Stairs/main.js)
   - [House Robber](./Algorithm%20I/House%20Robber/main.js)
   - [Triangle](./Algorithm%20I/Triangle/main.js)
+
+- Day 13
+  - [Power Of Two](./Algorithm%20I/Power%20Of%20Two/main.js)
+  - [Number Of 1 Bits](./Algorithm%20I/Number%20Of%201%20Bits/main.js)
