@@ -17,6 +17,7 @@
 - [IPO](./Daily%20Challenges/IPO/main.js)
 - [Minimize Deviation in Array](./Daily%20Challenges/Minimize%20Deviation%20in%20Array/main.js)
 - [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
+- [Edit Distance](./Daily%20Challenges/Edit%20Distance/main.js)
 
 ## Algorithms
 
@@ -74,6 +75,7 @@
   - [Reverse Linked List](./Algorithm%20I/Reverse%20Linked%20List/main.js)
 
 - Day 11
+
   - [Combinations](./Algorithm%20I/Combinations/main.js)
   - [Permutations](./Algorithm%20I/Permutations/main.js)
   - [Letter Case Permutation](./Algorithm%20I/Letter%20Case%20Permutation/main.js)
