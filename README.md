@@ -18,6 +18,7 @@
 - [Minimize Deviation in Array](./Daily%20Challenges/Minimize%20Deviation%20in%20Array/main.js)
 - [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
 - [Edit Distance](./Daily%20Challenges/Edit%20Distance/main.js)
+- [Construct Quad Tree](./Daily%20Challenges/Construct%20Quad%20Tree/main.js)
 
 ## Algorithms
 
@@ -87,5 +88,11 @@
   - [Triangle](./Algorithm%20I/Triangle/main.js)
 
 - Day 13
+
   - [Power Of Two](./Algorithm%20I/Power%20Of%20Two/main.js)
   - [Number Of 1 Bits](./Algorithm%20I/Number%20Of%201%20Bits/main.js)
+
+- Day 14
+
+  - [Reverse Bits](./Algorithm%20I/Reverse%20Bits/main.js)
+  - [Single Number](./Algorithm%20I/Single%20Number/main.js)
