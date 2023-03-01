@@ -19,6 +19,7 @@
 - [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
 - [Edit Distance](./Daily%20Challenges/Edit%20Distance/main.js)
 - [Construct Quad Tree](./Daily%20Challenges/Construct%20Quad%20Tree/main.js)
+- [Sort an Array](./Daily%20Challenges/Sort%20an%20Array/main.js)
 
 ## Algorithms
 
