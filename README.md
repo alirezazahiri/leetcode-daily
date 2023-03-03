@@ -20,6 +20,8 @@
 - [Edit Distance](./Daily%20Challenges/Edit%20Distance/main.js)
 - [Construct Quad Tree](./Daily%20Challenges/Construct%20Quad%20Tree/main.js)
 - [Sort an Array](./Daily%20Challenges/Sort%20an%20Array/main.js)
+- [String Compression](./Daily%20Challenges/String%20Compression/main.js)
+- [Find the Index of the First Occurrence in a String](./Daily%20Challenges/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/main.js)
 
 ## Algorithms
 
