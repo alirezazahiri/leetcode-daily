@@ -24,6 +24,8 @@
 - [Find the Index of the First Occurrence in a String](./Daily%20Challenges/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/main.js)
 - [Count Subarrays With Fixed Bounds](./Daily%20Challenges/Count%20Subarrays%20With%20Fixed%20Bounds/main.js)
 - [Jump Game IV](./Daily%20Challenges/Jump%20Game%20IV/main.js)
+- [Kth Missing Positive Number](./Daily%20Challenges/Kth%20Missing%20Positive%20Number/main.js)
+- [Minimum Time to Complete Trips](./Daily%20Challenges/Minimum%20Time%20to%20Complete%20Trips/main.js)
 
 ## Algorithms
 
