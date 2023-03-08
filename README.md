@@ -26,6 +26,7 @@
 - [Jump Game IV](./Daily%20Challenges/Jump%20Game%20IV/main.js)
 - [Kth Missing Positive Number](./Daily%20Challenges/Kth%20Missing%20Positive%20Number/main.js)
 - [Minimum Time to Complete Trips](./Daily%20Challenges/Minimum%20Time%20to%20Complete%20Trips/main.js)
+- [Koko Eating Bananas](./Daily%20Challenges/Koko%20Eating%20Bananas/main.js)
 
 ## Algorithms
 
