@@ -27,6 +27,7 @@
 - [Kth Missing Positive Number](./Daily%20Challenges/Kth%20Missing%20Positive%20Number/main.js)
 - [Minimum Time to Complete Trips](./Daily%20Challenges/Minimum%20Time%20to%20Complete%20Trips/main.js)
 - [Koko Eating Bananas](./Daily%20Challenges/Koko%20Eating%20Bananas/main.js)
+- [Linked List Cycle II](./Daily%20Challenges/Linked%20List%20Cycle%20II/main.js)
 
 ## Algorithms
 
