@@ -28,6 +28,7 @@
 - [Minimum Time to Complete Trips](./Daily%20Challenges/Minimum%20Time%20to%20Complete%20Trips/main.js)
 - [Koko Eating Bananas](./Daily%20Challenges/Koko%20Eating%20Bananas/main.js)
 - [Linked List Cycle II](./Daily%20Challenges/Linked%20List%20Cycle%20II/main.js)
+- [Linked List Random Node](./Daily%20Challenges/Linked%20List%20Random%20Node/main.js)
 
 ## Algorithms
 
