@@ -29,6 +29,7 @@
 - [Koko Eating Bananas](./Daily%20Challenges/Koko%20Eating%20Bananas/main.js)
 - [Linked List Cycle II](./Daily%20Challenges/Linked%20List%20Cycle%20II/main.js)
 - [Linked List Random Node](./Daily%20Challenges/Linked%20List%20Random%20Node/main.js)
+- [Convert Sorted List to Binary Search Tree](./Daily%20Challenges/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/main.js)
 
 ## Algorithms
 
