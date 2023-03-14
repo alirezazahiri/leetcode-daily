@@ -32,6 +32,7 @@
 - [Convert Sorted List to Binary Search Tree](./Daily%20Challenges/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/main.js)
 - [Merge k Sorted Lists](./Daily%20Challenges/Merge%20k%20Sorted%20Lists/main.js)
 - [Symmetric Tree](./Daily%20Challenges/Symmetric%20Tree/main.js)
+- [Sum Root to Leaf Numbers](./Daily%20Challenges/Sum%20Root%20to%20Leaf%20Numbers/main.js)
 
 ## Algorithms
 
