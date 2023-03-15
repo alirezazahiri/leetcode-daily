@@ -33,6 +33,7 @@
 - [Merge k Sorted Lists](./Daily%20Challenges/Merge%20k%20Sorted%20Lists/main.js)
 - [Symmetric Tree](./Daily%20Challenges/Symmetric%20Tree/main.js)
 - [Sum Root to Leaf Numbers](./Daily%20Challenges/Sum%20Root%20to%20Leaf%20Numbers/main.js)
+- [Check Completeness of a Binary Tree](./Daily%20Challenges/Check%20Completeness%20of%20a%20Binary%20Tree/main.js)
 
 ## Algorithms
 
