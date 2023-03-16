@@ -111,3 +111,7 @@
 
   - [Reverse Bits](./Algorithm%20I/Reverse%20Bits/main.js)
   - [Single Number](./Algorithm%20I/Single%20Number/main.js)
+
+## Extra
+
+- [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
