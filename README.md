@@ -34,6 +34,7 @@
 - [Symmetric Tree](./Daily%20Challenges/Symmetric%20Tree/main.js)
 - [Sum Root to Leaf Numbers](./Daily%20Challenges/Sum%20Root%20to%20Leaf%20Numbers/main.js)
 - [Check Completeness of a Binary Tree](./Daily%20Challenges/Check%20Completeness%20of%20a%20Binary%20Tree/main.js)
+- [Construct Binary Tree from Inorder and Postorder Traversal](./Daily%20Challenges/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/main.js)
 
 ## Algorithms
 
