@@ -35,7 +35,7 @@
 - [Sum Root to Leaf Numbers](./Daily%20Challenges/Sum%20Root%20to%20Leaf%20Numbers/main.js)
 - [Check Completeness of a Binary Tree](./Daily%20Challenges/Check%20Completeness%20of%20a%20Binary%20Tree/main.js)
 - [Construct Binary Tree from Inorder and Postorder Traversal](./Daily%20Challenges/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/main.js)
-- [Implement Trie (Prefix Tree)](./Daily%20Challenges/Implement%20Trie%20(Prefix%20Tree)/main.js)
+- [Implement Trie (Prefix Tree)](<./Daily%20Challenges/Implement%20Trie%20(Prefix%20Tree)/main.js>)
 - [Design Browser History](./Daily%20Challenges/Design%20Browser%20History/main.js)
 
 ## Algorithms
@@ -118,8 +118,13 @@
 ## LeetCode 75
 
 - Prefix Sum (Day 1)
+
   - [Running Sum of 1d Array](./LeetCode%2075/Running%20Sum%20of%201d%20Array/main.js)
   - [Find Pivot Index](./LeetCode%2075/Find%20Pivot%20Index/main.js)
+
+- String (Day 2)
+  - [Isomorphic Strings](./LeetCode%2075/Isomorphic%20Strings/main.js)
+  - [Is Subsequence](./LeetCode%2075/Is%20Subsequence/main.js)
 
 ## Extra
 
