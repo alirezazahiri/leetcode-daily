@@ -6,6 +6,7 @@
  * @return {boolean}
  */
 var isSubsequence = function (s, t) {
+  if (s.length > t.length) return false;
   let charCount = {},
     lastPos = 0;
   for (const ch of s) {
