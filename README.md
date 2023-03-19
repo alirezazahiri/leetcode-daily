@@ -37,6 +37,7 @@
 - [Construct Binary Tree from Inorder and Postorder Traversal](./Daily%20Challenges/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/main.js)
 - [Implement Trie (Prefix Tree)](<./Daily%20Challenges/Implement%20Trie%20(Prefix%20Tree)/main.js>)
 - [Design Browser History](./Daily%20Challenges/Design%20Browser%20History/main.js)
+- [Design Add and Search Words Data Structure](./Daily%20Challenges/Design%20Add%20and%20Search%20Words%20Data%20Structure/main.js)
 
 ## Algorithms
 
