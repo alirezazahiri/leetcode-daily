@@ -39,6 +39,7 @@
 - [Design Browser History](./Daily%20Challenges/Design%20Browser%20History/main.js)
 - [Design Add and Search Words Data Structure](./Daily%20Challenges/Design%20Add%20and%20Search%20Words%20Data%20Structure/main.js)
 - [Can Place Flowers](./Daily%20Challenges/Can%20Place%20Flowers/main.js)
+- [Number of Zero-Filled Subarrays](./Daily%20Challenges/Number%20of%20Zero-Filled%20Subarrays/main.js)
 
 ## Algorithms
 
@@ -125,8 +126,23 @@
   - [Find Pivot Index](./LeetCode%2075/Find%20Pivot%20Index/main.js)
 
 - String (Day 2)
+
   - [Isomorphic Strings](./LeetCode%2075/Isomorphic%20Strings/main.js)
   - [Is Subsequence](./LeetCode%2075/Is%20Subsequence/main.js)
+
+- Linked List (Day 3)
+
+  - [Merge Two Sorted Lists](./Algorithm%20I/Merge%20Two%20Sorted%20Lists/main.js)
+  - [Reverse Linked List](./Algorithm%20I/Reverse%20Linked%20List/main.js)
+
+- Linked List (Day 4)
+
+  - [Middle of the Linked List](./Algorithm%20I/Middle%20of%20the%20Linked%20List/main.js)
+  - [Linked List Cycle II](./Daily%20Challenges/Linked%20List%20Cycle%20II/main.js)
+
+- Greedy (Day 5)
+  - [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
+  - [Longest Palindrome](./LeetCode%2075/Longest%20Palindrome/main.js)
 
 ## Extra
 
