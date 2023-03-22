@@ -142,8 +142,13 @@
   - [Linked List Cycle II](./Daily%20Challenges/Linked%20List%20Cycle%20II/main.js)
 
 - Greedy (Day 5)
+
   - [Best Time to Buy and Sell Stock](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.js)
   - [Longest Palindrome](./LeetCode%2075/Longest%20Palindrome/main.js)
+
+- Tree (Day 6)
+  - [N-ary Tree Preorder Traversal](/LeetCode%2075/N-ary%20Tree%20Preorder%20Travresal/main.js)
+  - [Binary Tree Level Order Traversal](/LeetCode%2075/Binary%20Tree%20Level%20Order%20Traversal/main.js)
 
 ## Extra
 
