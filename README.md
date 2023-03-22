@@ -40,6 +40,7 @@
 - [Design Add and Search Words Data Structure](./Daily%20Challenges/Design%20Add%20and%20Search%20Words%20Data%20Structure/main.js)
 - [Can Place Flowers](./Daily%20Challenges/Can%20Place%20Flowers/main.js)
 - [Number of Zero-Filled Subarrays](./Daily%20Challenges/Number%20of%20Zero-Filled%20Subarrays/main.js)
+- [Minimum Score of a Path Between Two Cities](./Daily%20Challenges/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/main.js)
 
 ## Algorithms
 
