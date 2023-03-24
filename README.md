@@ -42,6 +42,7 @@
 - [Number of Zero-Filled Subarrays](./Daily%20Challenges/Number%20of%20Zero-Filled%20Subarrays/main.js)
 - [Minimum Score of a Path Between Two Cities](./Daily%20Challenges/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/main.js)
 - [Number Of Operations To Make Network Connected](./Daily%20Challenges/Number%20Of%20Operations%20To%20Make%20Network%20Connected/main.js)
+- [Reorder Routes to Make All Paths Lead to the City Zero](./Daily%20Challenges/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/main.js)
 
 ## Algorithms
 
