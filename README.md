@@ -43,6 +43,7 @@
 - [Minimum Score of a Path Between Two Cities](./Daily%20Challenges/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/main.js)
 - [Number Of Operations To Make Network Connected](./Daily%20Challenges/Number%20Of%20Operations%20To%20Make%20Network%20Connected/main.js)
 - [Reorder Routes to Make All Paths Lead to the City Zero](./Daily%20Challenges/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/main.js)
+- [Count Unreachable Pairs of Nodes in an Undirected Graph>](./Daily%20Challenges/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/main.js)
 
 ## Algorithms
 
