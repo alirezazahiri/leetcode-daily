@@ -43,7 +43,8 @@
 - [Minimum Score of a Path Between Two Cities](./Daily%20Challenges/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/main.js)
 - [Number Of Operations To Make Network Connected](./Daily%20Challenges/Number%20Of%20Operations%20To%20Make%20Network%20Connected/main.js)
 - [Reorder Routes to Make All Paths Lead to the City Zero](./Daily%20Challenges/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/main.js)
-- [Count Unreachable Pairs of Nodes in an Undirected Graph>](./Daily%20Challenges/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/main.js)
+- [Count Unreachable Pairs of Nodes in an Undirected Graph](./Daily%20Challenges/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/main.js)
+- [Longest Cycle in a Graph](./Daily%20Challenges/Longest%20Cycle%20in%20a%20Graph/main.js)
 
 ## Algorithms
 
@@ -150,8 +151,29 @@
   - [Longest Palindrome](./LeetCode%2075/Longest%20Palindrome/main.js)
 
 - Tree (Day 6)
+
   - [N-ary Tree Preorder Traversal](/LeetCode%2075/N-ary%20Tree%20Preorder%20Travresal/main.js)
   - [Binary Tree Level Order Traversal](/LeetCode%2075/Binary%20Tree%20Level%20Order%20Traversal/main.js)
+
+- Binary Search (Day 7)
+
+  - [Binary Search](./Algorithm%20I/Binary%20Search/main.js)
+  - [First Bad Version](./Algorithm%20I/First%20Bad%20Version/main.js)
+
+- Binary Search Tree (Day 8)
+
+  - [Validate Binary Search Tree](./LeetCode%2075/Validate%20Binary%20Search%20Tree/main.js)
+  - [Lowest Common Ancestor of a Binary Search Tree](./LeetCode%2075/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/main.js)
+
+- Graph/BFS/DFS (Day 9)
+
+  - [Flood Fill](./Algorithm%20I/Flood%20Fill/main.js)
+  - [Number of Islands](./LeetCode%2075/Number%20of%20Islands/main.js)
+
+- Dynamic Programming (Day 10)
+
+  - [Fibonacci Number](./LeetCode%2075/Fibonacci%20Number/main.js)
+  - [Climbing Stairs](./Algorithm%20I/Climbing%20Stairs/main.js)
 
 ## Extra
 
