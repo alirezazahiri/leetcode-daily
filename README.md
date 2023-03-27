@@ -45,6 +45,7 @@
 - [Reorder Routes to Make All Paths Lead to the City Zero](./Daily%20Challenges/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/main.js)
 - [Count Unreachable Pairs of Nodes in an Undirected Graph](./Daily%20Challenges/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/main.js)
 - [Longest Cycle in a Graph](./Daily%20Challenges/Longest%20Cycle%20in%20a%20Graph/main.js)
+- [Minimum Path Sum](./Daily%20Challenges/Minimum%20Path%20Sum/main.js)
 
 ## Algorithms
 
@@ -174,6 +175,11 @@
 
   - [Fibonacci Number](./LeetCode%2075/Fibonacci%20Number/main.js)
   - [Climbing Stairs](./Algorithm%20I/Climbing%20Stairs/main.js)
+
+- Dynamic Programming (Day 11)
+
+  - [Min Cost Climbing Stairs](./LeetCode%2075/Min%20Cost%20Climbing%20Stairs/main.js)
+  - [Unique Paths](./LeetCode%2075/Unique%20Paths/main.js)
 
 ## Extra
 
