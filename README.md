@@ -46,6 +46,7 @@
 - [Count Unreachable Pairs of Nodes in an Undirected Graph](./Daily%20Challenges/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/main.js)
 - [Longest Cycle in a Graph](./Daily%20Challenges/Longest%20Cycle%20in%20a%20Graph/main.js)
 - [Minimum Path Sum](./Daily%20Challenges/Minimum%20Path%20Sum/main.js)
+- [Minimum Cost For Tickets](./Daily%20Challenges/Minimum%20Cost%20For%20Tickets/main.js)
 
 ## Algorithms
 
@@ -180,6 +181,11 @@
 
   - [Min Cost Climbing Stairs](./LeetCode%2075/Min%20Cost%20Climbing%20Stairs/main.js)
   - [Unique Paths](./LeetCode%2075/Unique%20Paths/main.js)
+
+- Sliding Window/Two Pointer (Day 12)
+
+  - [Find All Anagrams in a String](./LeetCode%2075/Find%20All%20Anagrams%20in%20a%20String/main.js)
+  - [Longest Repeating Character Replacement](./LeetCode%2075/Longest%20Repeating%20Character%20Replacement/main.js)
 
 ## Extra
 
