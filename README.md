@@ -47,6 +47,7 @@
 - [Longest Cycle in a Graph](./Daily%20Challenges/Longest%20Cycle%20in%20a%20Graph/main.js)
 - [Minimum Path Sum](./Daily%20Challenges/Minimum%20Path%20Sum/main.js)
 - [Minimum Cost For Tickets](./Daily%20Challenges/Minimum%20Cost%20For%20Tickets/main.js)
+- [Reducing Dishes](./Daily%20Challenges/Reducing%20Dishes/main.js)
 
 ## Algorithms
 
