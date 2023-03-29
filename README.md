@@ -188,6 +188,11 @@
   - [Find All Anagrams in a String](./LeetCode%2075/Find%20All%20Anagrams%20in%20a%20String/main.js)
   - [Longest Repeating Character Replacement](./LeetCode%2075/Longest%20Repeating%20Character%20Replacement/main.js)
 
+- Hashmap (Day 13)
+
+  - [Two Sum](./Daily%20Challenges/Two%20Sum/main.js)
+  - [Bulls and Cows](./LeetCode%2075/Bulls%20and%20Cows/main.js)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
