@@ -194,6 +194,11 @@
   - [Two Sum](./Daily%20Challenges/Two%20Sum/main.js)
   - [Bulls and Cows](./LeetCode%2075/Bulls%20and%20Cows/main.js)
 
+- Stack (Day 14)
+
+  - [Backspace String Compare](./LeetCode%2075/Backspace%20String%20Compare/main.js)
+  - [Decode String](./LeetCode%2075/Decode%20String/main.js)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
