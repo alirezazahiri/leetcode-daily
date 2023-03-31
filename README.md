@@ -200,6 +200,11 @@
   - [Backspace String Compare](./LeetCode%2075/Backspace%20String%20Compare/main.js)
   - [Decode String](./LeetCode%2075/Decode%20String/main.js)
 
+- Heap (Day 15)
+
+  - [Last Stone Weight](./LeetCode%2075/Last%20Stone%20Weight/main.js)
+  - [Top K Frequent Words](./LeetCode%2075/Top%20K%20Frequent%20Words/main.js)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
