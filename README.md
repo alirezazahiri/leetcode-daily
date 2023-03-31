@@ -49,6 +49,7 @@
 - [Minimum Cost For Tickets](./Daily%20Challenges/Minimum%20Cost%20For%20Tickets/main.js)
 - [Reducing Dishes](./Daily%20Challenges/Reducing%20Dishes/main.js)
 - [Scramble String](./Daily%20Challenges/Scramble%20String/main.js)
+- [Number of Ways of Cutting a Pizza](./Daily%20Challenges/Number%20of%20Ways%20of%20Cutting%20a%20Pizza/main.js)
 
 ## Algorithms
 
