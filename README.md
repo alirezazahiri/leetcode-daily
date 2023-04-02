@@ -215,6 +215,12 @@
   - [Find Customer Referee](./SQL/Find%20Customer%20Referee/db.sql)
   - [Recyclable and Low Fat Products](./SQL/Recyclable%20and%20Low%20Fat%20Products/db.sql)
 
+- Select (Day 2)
+
+  - [Calculate Special Bonus](./SQL/Calculate%20Special%20Bonus/db.sql)
+  - [Swap Salary](./SQL/Swap%20Salary/db.sql)
+  - [Delete Duplicate Emails](./SQL/Delete%20Duplicate%20Emails/db.sql)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
