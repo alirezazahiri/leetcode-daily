@@ -51,6 +51,7 @@
 - [Scramble String](./Daily%20Challenges/Scramble%20String/main.js)
 - [Number of Ways of Cutting a Pizza](./Daily%20Challenges/Number%20of%20Ways%20of%20Cutting%20a%20Pizza/main.js)
 - [Successful Pairs of Spells and Potions](./Daily%20Challenges/Successful%20Pairs%20of%20Spells%20and%20Potions/main.js)
+- [Boats to Save People](./Daily%20Challenges/Boats%20to%20Save%20People/main.js)
 
 ## Algorithms
 
@@ -215,7 +216,7 @@
   - [Find Customer Referee](./SQL/Find%20Customer%20Referee/db.sql)
   - [Recyclable and Low Fat Products](./SQL/Recyclable%20and%20Low%20Fat%20Products/db.sql)
 
-- Select (Day 2)
+- Select & Order (Day 2)
 
   - [Calculate Special Bonus](./SQL/Calculate%20Special%20Bonus/db.sql)
   - [Swap Salary](./SQL/Swap%20Salary/db.sql)
