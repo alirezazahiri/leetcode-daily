@@ -222,6 +222,12 @@
   - [Swap Salary](./SQL/Swap%20Salary/db.sql)
   - [Delete Duplicate Emails](./SQL/Delete%20Duplicate%20Emails/db.sql)
 
+- String Processing Functions (Day 3)
+
+  - [Fix Names in a Table](./SQL/Fix%20Names%20in%20a%20Table/db.sql)
+  - [Group Sold Products By The Date](./SQL/Group%20Sold%20Products%20By%20The%20Date/db.sql)
+  - [Patients With a Condition](./SQL/Patients%20With%20a%20Condition/db.sql)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)

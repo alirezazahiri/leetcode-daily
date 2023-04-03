@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/boats-to-save-people/
+// URL: https://leetcode.com/problems/boats-to-save-people/
 
 /**
  * @param {number[]} people

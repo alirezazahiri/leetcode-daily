@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/calculate-special-bonus/
+# URL: https://leetcode.com/problems/calculate-special-bonus/
 
 # solution 1
 select employee_id, salary as bonus from Employees

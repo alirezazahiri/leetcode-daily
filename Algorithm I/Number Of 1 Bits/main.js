@@ -1,4 +1,4 @@
-// URL:https://leetcode.com/problems/number-of-1-bits/
+// URL: https://leetcode.com/problems/number-of-1-bits/
 
 /**
  * @param {number} n - a positive integer
