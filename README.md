@@ -52,6 +52,7 @@
 - [Number of Ways of Cutting a Pizza](./Daily%20Challenges/Number%20of%20Ways%20of%20Cutting%20a%20Pizza/main.js)
 - [Successful Pairs of Spells and Potions](./Daily%20Challenges/Successful%20Pairs%20of%20Spells%20and%20Potions/main.js)
 - [Boats to Save People](./Daily%20Challenges/Boats%20to%20Save%20People/main.js)
+- [Optimal Partition of String](./Daily%20Challenges/Optimal%20Partition%20of%20String/main.js)
 
 ## Algorithms
 
