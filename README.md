@@ -229,6 +229,13 @@
   - [Group Sold Products By The Date](./SQL/Group%20Sold%20Products%20By%20The%20Date/db.sql)
   - [Patients With a Condition](./SQL/Patients%20With%20a%20Condition/db.sql)
 
+- Union & Select (Day 4)
+
+  - [Employees With Missing Information](./SQL/Employees%20With%20Missing%20Information/db.sql)
+  - [Rearrange Products Table](./SQL/Rearrange%20Products%20Table/db.sql)
+  - [Tree Node](./SQL/Tree%20Node/db.sql)
+  - [Second Highest Salary](./SQL/Second%20Highest%20Salary/db.sql)
+
 ## Extra
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
