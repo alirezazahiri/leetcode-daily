@@ -53,6 +53,7 @@
 - [Successful Pairs of Spells and Potions](./Daily%20Challenges/Successful%20Pairs%20of%20Spells%20and%20Potions/main.js)
 - [Boats to Save People](./Daily%20Challenges/Boats%20to%20Save%20People/main.js)
 - [Optimal Partition of String](./Daily%20Challenges/Optimal%20Partition%20of%20String/main.js)
+- [Minimize Maximum of Array](./Daily%20Challenges/Minimize%20Maximum%20of%20Array/main.js)
 
 ## Algorithms
 
@@ -235,6 +236,10 @@
   - [Rearrange Products Table](./SQL/Rearrange%20Products%20Table/db.sql)
   - [Tree Node](./SQL/Tree%20Node/db.sql)
   - [Second Highest Salary](./SQL/Second%20Highest%20Salary/db.sql)
+
+- Union (Day 5)
+
+  - []()
 
 ## Extra
 
