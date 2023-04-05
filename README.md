@@ -239,7 +239,9 @@
 
 - Union (Day 5)
 
-  - []()
+  - [Combine Two Tables](./SQL/Combine%20Two%20Tables/db.sql)
+  - [Customer Who Visited but Did Not Make Any Transactions](./SQL/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/db.sql)
+  - [Article Views I](./SQL/Article%20Views%20I/db.sql)
 
 ## Extra
 
