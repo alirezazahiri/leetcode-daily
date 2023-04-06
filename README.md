@@ -54,6 +54,7 @@
 - [Boats to Save People](./Daily%20Challenges/Boats%20to%20Save%20People/main.js)
 - [Optimal Partition of String](./Daily%20Challenges/Optimal%20Partition%20of%20String/main.js)
 - [Minimize Maximum of Array](./Daily%20Challenges/Minimize%20Maximum%20of%20Array/main.js)
+- [Number of Closed Islands](./Daily%20Challenges/Number%20of%20Closed%20Islands/main.js)
 
 ## Algorithms
 
@@ -242,6 +243,11 @@
   - [Combine Two Tables](./SQL/Combine%20Two%20Tables/db.sql)
   - [Customer Who Visited but Did Not Make Any Transactions](./SQL/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/db.sql)
   - [Article Views I](./SQL/Article%20Views%20I/db.sql)
+
+- Union (Day 6)
+
+  - [Rising Temperature](./SQL/Rising%20Temperature/db.sql)
+  - [Sales Person](./SQL/Sales%20Person/db.sql)
 
 ## Extra
 
