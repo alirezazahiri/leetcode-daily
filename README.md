@@ -55,6 +55,7 @@
 - [Optimal Partition of String](./Daily%20Challenges/Optimal%20Partition%20of%20String/main.js)
 - [Minimize Maximum of Array](./Daily%20Challenges/Minimize%20Maximum%20of%20Array/main.js)
 - [Number of Closed Islands](./Daily%20Challenges/Number%20of%20Closed%20Islands/main.js)
+- [Number of Enclaves](./Daily%20Challenges/Number%20of%20Enclaves/main.js)
 
 ## Algorithms
 
@@ -248,6 +249,8 @@
 
   - [Rising Temperature](./SQL/Rising%20Temperature/db.sql)
   - [Sales Person](./SQL/Sales%20Person/db.sql)
+
+
 
 ## Extra
 
