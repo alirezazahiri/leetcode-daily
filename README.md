@@ -250,7 +250,11 @@
   - [Rising Temperature](./SQL/Rising%20Temperature/db.sql)
   - [Sales Person](./SQL/Sales%20Person/db.sql)
 
+- Function (Day 7)
 
+  - [User Activity for the Past 30 Days I](./SQL/User%20Activity%20for%20the%20Past%2030%20Days%20I/db.sql)
+  - [Daily Leads and Partners](./SQL/Daily%20Leads%20and%20Partners/db.sql)
+  - [Find Followers Count](./SQL/Find%20Followers%20Count/db.sql)
 
 ## Extra
 
