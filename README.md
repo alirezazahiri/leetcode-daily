@@ -56,6 +56,7 @@
 - [Minimize Maximum of Array](./Daily%20Challenges/Minimize%20Maximum%20of%20Array/main.js)
 - [Number of Closed Islands](./Daily%20Challenges/Number%20of%20Closed%20Islands/main.js)
 - [Number of Enclaves](./Daily%20Challenges/Number%20of%20Enclaves/main.js)
+- [Clone Graph](./Daily%20Challenges/Clone%20Graph/main.js)
 
 ## Algorithms
 
@@ -255,6 +256,10 @@
   - [User Activity for the Past 30 Days I](./SQL/User%20Activity%20for%20the%20Past%2030%20Days%20I/db.sql)
   - [Daily Leads and Partners](./SQL/Daily%20Leads%20and%20Partners/db.sql)
   - [Find Followers Count](./SQL/Find%20Followers%20Count/db.sql)
+
+- Function (Day 8)
+
+  - []
 
 ## Extra
 
