@@ -58,6 +58,7 @@
 - [Number of Enclaves](./Daily%20Challenges/Number%20of%20Enclaves/main.js)
 - [Clone Graph](./Daily%20Challenges/Clone%20Graph/main.js)
 - [Largest Color Value in a Directed Graph](./Daily%20Challenges/Largest%20Color%20Value%20in%20a%20Directed%20Graph/main.js)
+- [Valid Parantheses](./Daily%20Challenges/Valid%20Parentheses/main.js)
 
 ## Algorithms
 
