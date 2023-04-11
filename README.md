@@ -59,6 +59,7 @@
 - [Clone Graph](./Daily%20Challenges/Clone%20Graph/main.js)
 - [Largest Color Value in a Directed Graph](./Daily%20Challenges/Largest%20Color%20Value%20in%20a%20Directed%20Graph/main.js)
 - [Valid Parantheses](./Daily%20Challenges/Valid%20Parentheses/main.js)
+- [Removing Stars From a String](./Daily%20Challenges/Removing%20Stars%20From%20a%20String/main.js)
 
 ## Algorithms
 
@@ -267,7 +268,7 @@
   - [Find Total Time Spent by Each Employee](./SQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee/db.sql)
 
 - Control of Flow (Day 9)
-  
+
   - [Capital Gain/Loss](./SQL/Capital%20Gain%20Loss/db.sql)
   - [Top Travellers](./SQL/Top%20Travellers/db.sql)
   - [Market Analysis I](./SQL/Market%20Analysis%20I/db.sql)
@@ -283,4 +284,3 @@
 
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
 - [Number of Matching Subsequences](./Extra/Number%20of%20Matching%20Subsequences/main.js)
-
