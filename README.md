@@ -60,6 +60,7 @@
 - [Largest Color Value in a Directed Graph](./Daily%20Challenges/Largest%20Color%20Value%20in%20a%20Directed%20Graph/main.js)
 - [Valid Parantheses](./Daily%20Challenges/Valid%20Parentheses/main.js)
 - [Removing Stars From a String](./Daily%20Challenges/Removing%20Stars%20From%20a%20String/main.js)
+- [Simplify Path](./Daily%20Challenges/Simplify%20Path/main.js)
 
 ## Algorithms
 
