@@ -61,6 +61,7 @@
 - [Valid Parantheses](./Daily%20Challenges/Valid%20Parentheses/main.js)
 - [Removing Stars From a String](./Daily%20Challenges/Removing%20Stars%20From%20a%20String/main.js)
 - [Simplify Path](./Daily%20Challenges/Simplify%20Path/main.js)
+- [Validate Stack Sequences](./Daily%20Challenges/Validate%20Stack%20Sequence/main.js)
 
 ## Algorithms
 
