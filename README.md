@@ -63,7 +63,7 @@
 - [Simplify Path](./Daily%20Challenges/Simplify%20Path/main.js)
 - [Validate Stack Sequences](./Daily%20Challenges/Validate%20Stack%20Sequence/main.js)
 - [Longest Palindromic Subsequence](./Daily%20Challenges/Longest%20Palindromic%20Subsequence/main.js)
-
+- [Maximum Value of K Coins From Piles](./Daily%20Challenges/Maximum%20Value%20of%20K%20Coins%20From%20Piles/main.js)
 
 ## Algorithms
 
