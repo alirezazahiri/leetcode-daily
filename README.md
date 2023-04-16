@@ -64,6 +64,7 @@
 - [Validate Stack Sequences](./Daily%20Challenges/Validate%20Stack%20Sequence/main.js)
 - [Longest Palindromic Subsequence](./Daily%20Challenges/Longest%20Palindromic%20Subsequence/main.js)
 - [Maximum Value of K Coins From Piles](./Daily%20Challenges/Maximum%20Value%20of%20K%20Coins%20From%20Piles/main.js)
+- [Number of Ways to Form a Target String Given a Dictionary](./Daily%20Challenges/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary/main.js)
 
 ## Algorithms
 
