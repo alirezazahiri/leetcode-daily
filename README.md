@@ -66,6 +66,7 @@
 - [Maximum Value of K Coins From Piles](./Daily%20Challenges/Maximum%20Value%20of%20K%20Coins%20From%20Piles/main.js)
 - [Number of Ways to Form a Target String Given a Dictionary](./Daily%20Challenges/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary/main.js)
 - [Kids With the Greatest Number of Candies](./Daily%20Challenges/Kids%20With%20the%20Greatest%20Number%20of%20Candies/main.js)
+- [Merge Strings Alternately](./Daily%20Challenges/Merge%20Strings%20Alternately/main.js)
 
 ## Algorithms
 
