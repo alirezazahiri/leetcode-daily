@@ -70,6 +70,7 @@
 - [Longest ZigZag Path in a Binary Tree](./Daily%20Challenges/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree/main.js)
 - [Maximum Width of Binary Tree](./Daily%20Challenges/Maximum%20Width%20of%20Binary%20Tree/main.js)
 - [Profitable Schemes](./Daily%20Challenges/Profitable%20Schemes/main.js)
+- [Minimum Insertion Steps to Make a String Palindrome](./Daily%20Challenges/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/main.js)
 
 ## Algorithms
 
