@@ -71,6 +71,7 @@
 - [Maximum Width of Binary Tree](./Daily%20Challenges/Maximum%20Width%20of%20Binary%20Tree/main.js)
 - [Profitable Schemes](./Daily%20Challenges/Profitable%20Schemes/main.js)
 - [Minimum Insertion Steps to Make a String Palindrome](./Daily%20Challenges/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/main.js)
+- [Restore The Array](./Daily%20Challenges/Restore%20The%20Array/main.js)
 
 ## Algorithms
 
