@@ -73,6 +73,8 @@
 - [Minimum Insertion Steps to Make a String Palindrome](./Daily%20Challenges/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/main.js)
 - [Restore The Array](./Daily%20Challenges/Restore%20The%20Array/main.js)
 - [Smallest Number in Infinite Set](./Daily%20Challenges/Smallest%20Number%20in%20Infinite%20Set/main.js)
+- [Add Digits](./Daily%20Challenges/Add%20Digits/main.js)
+
 
 ## Algorithms
 
