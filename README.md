@@ -74,7 +74,7 @@
 - [Restore The Array](./Daily%20Challenges/Restore%20The%20Array/main.js)
 - [Smallest Number in Infinite Set](./Daily%20Challenges/Smallest%20Number%20in%20Infinite%20Set/main.js)
 - [Add Digits](./Daily%20Challenges/Add%20Digits/main.js)
-
+- [Bulb Switcher](./Daily%20Challenge/Bulb%20Switcher/main.js)
 
 ## Algorithms
 
