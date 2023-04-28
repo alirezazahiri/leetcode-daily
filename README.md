@@ -75,6 +75,7 @@
 - [Smallest Number in Infinite Set](./Daily%20Challenges/Smallest%20Number%20in%20Infinite%20Set/main.js)
 - [Add Digits](./Daily%20Challenges/Add%20Digits/main.js)
 - [Bulb Switcher](./Daily%20Challenge/Bulb%20Switcher/main.js)
+- [Similar String Groups](./Daily%20Challenges/Similar%20String%20Groups/main.js)
 
 ## Algorithms
 
