@@ -76,7 +76,8 @@
 - [Add Digits](./Daily%20Challenges/Add%20Digits/main.js)
 - [Bulb Switcher](./Daily%20Challenge/Bulb%20Switcher/main.js)
 - [Similar String Groups](./Daily%20Challenges/Similar%20String%20Groups/main.js)
-- [Checking Existence  of Edge Length Limited Paths](./Daily%20Challenges/Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/main.js)
+- [Checking Existence of Edge Length Limited Paths](./Daily%20Challenges/Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/main.js)
+- [Remove Max Number of Edges to Keep Graph Fully Traversable](./Daily%20Challenges/Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable/main.js)
 
 ## Algorithms
 
