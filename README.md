@@ -78,6 +78,7 @@
 - [Similar String Groups](./Daily%20Challenges/Similar%20String%20Groups/main.js)
 - [Checking Existence of Edge Length Limited Paths](./Daily%20Challenges/Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/main.js)
 - [Remove Max Number of Edges to Keep Graph Fully Traversable](./Daily%20Challenges/Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable/main.js)
+- [Sign of the Product of an array](./Daily%20Challenges/Sign%20of%20the%20Product%20of%20an%20array/main.js)
 
 ## Algorithms
 
