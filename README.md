@@ -82,6 +82,7 @@
 - [Dota2 Senate](./Daily%20Challenges/Dota2%20Senate/main.js)
 - [Maximum Number of Vowels in a Substring of Given Length](./Daily%20Challenges/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/main.js)
 - [Number of Subsequences That Satisfy the Given Sum Condition](./Daily%20Challenges/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/main.js)
+- [Find the Longest Valid Obstacle Course at Each Position](./Daily%20Challenges/Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/main.js)
 
 ## Algorithms
 
