@@ -85,6 +85,8 @@
 - [Find the Longest Valid Obstacle Course at Each Position](./Daily%20Challenges/Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/main.js)
 - [Matrix Diagonal Sum](./Daily%20Challenges/Matrix%20Diagonal%20Sum/main.js)
 - [Spiral Matrix](./Daily%20Challenges/Spiral%20Matrix/main.js)
+- [Spiral Matrix II](./Daily%20Challenges/Spiral%20Matrix%20II/main.js)
+
 
 ## Algorithms
 
