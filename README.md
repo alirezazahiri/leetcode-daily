@@ -86,7 +86,7 @@
 - [Matrix Diagonal Sum](./Daily%20Challenges/Matrix%20Diagonal%20Sum/main.js)
 - [Spiral Matrix](./Daily%20Challenges/Spiral%20Matrix/main.js)
 - [Spiral Matrix II](./Daily%20Challenges/Spiral%20Matrix%20II/main.js)
-
+- [Uncrossed Lines](./Daily%20Challenges/Uncrossed%20Lines/main.js)
 
 ## Algorithms
 
@@ -312,3 +312,4 @@
 - [Median of Two Sorted Arrays](./Extra/Median%20of%20Two%20Sorted%20Arrays/main.js)
 - [Number of Matching Subsequences](./Extra/Number%20of%20Matching%20Subsequences/main.js)
 - [Roman to Integer](./Extra/Roman%20to%20Integer/main.js)
+- [Function Composition](./Extra/Function%20Composition/main.js)
