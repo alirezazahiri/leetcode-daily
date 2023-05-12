@@ -87,6 +87,7 @@
 - [Spiral Matrix](./Daily%20Challenges/Spiral%20Matrix/main.js)
 - [Spiral Matrix II](./Daily%20Challenges/Spiral%20Matrix%20II/main.js)
 - [Uncrossed Lines](./Daily%20Challenges/Uncrossed%20Lines/main.js)
+- [Solving Questions With Brainpower](./Daily%20Challenges/Solving%20Questions%20With%20Brainpower/main.js)
 
 ## Algorithms
 
