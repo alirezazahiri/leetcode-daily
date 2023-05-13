@@ -88,6 +88,7 @@
 - [Spiral Matrix II](./Daily%20Challenges/Spiral%20Matrix%20II/main.js)
 - [Uncrossed Lines](./Daily%20Challenges/Uncrossed%20Lines/main.js)
 - [Solving Questions With Brainpower](./Daily%20Challenges/Solving%20Questions%20With%20Brainpower/main.js)
+- [Count Ways To Build Good Strings](./Daily%20Challenges/Count%20Ways%20To%20Build%20Good%20Strings/main.js)
 
 ## Algorithms
 
