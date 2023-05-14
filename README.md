@@ -89,6 +89,7 @@
 - [Uncrossed Lines](./Daily%20Challenges/Uncrossed%20Lines/main.js)
 - [Solving Questions With Brainpower](./Daily%20Challenges/Solving%20Questions%20With%20Brainpower/main.js)
 - [Count Ways To Build Good Strings](./Daily%20Challenges/Count%20Ways%20To%20Build%20Good%20Strings/main.js)
+- [Maximize Score After N Operations]
 
 ## Algorithms
 
@@ -315,3 +316,4 @@
 - [Number of Matching Subsequences](./Extra/Number%20of%20Matching%20Subsequences/main.js)
 - [Roman to Integer](./Extra/Roman%20to%20Integer/main.js)
 - [Function Composition](./Extra/Function%20Composition/main.js)
+- [Curry](./Extra/Curry/main.ts)
