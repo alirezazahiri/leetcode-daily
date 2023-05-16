@@ -319,3 +319,4 @@
 - [Roman to Integer](./Extra/Roman%20to%20Integer/main.js)
 - [Function Composition](./Extra/Function%20Composition/main.js)
 - [Curry](./Extra/Curry/main.ts)
+- [Promise Time Limit](./Extra/Promise%20Time%20Limit/main.js)
