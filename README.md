@@ -91,6 +91,7 @@
 - [Count Ways To Build Good Strings](./Daily%20Challenges/Count%20Ways%20To%20Build%20Good%20Strings/main.js)
 - [Maximize Score After N Operations](./Daily%20Challenges/Maximize%20Score%20After%20N%20Operations/main.js)
 - [Swapping Nodes in A Linked List](./Daily%20Challenges/Swapping%20Nodes%20in%20A%20Linked%20List/main.js)
+- [Swap Nodes in Pairs](./Daily%20Challenges/Swap%20Nodes%20in%20Pairs/main.js)
 
 ## Algorithms
 
