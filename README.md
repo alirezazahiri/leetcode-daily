@@ -92,6 +92,7 @@
 - [Maximize Score After N Operations](./Daily%20Challenges/Maximize%20Score%20After%20N%20Operations/main.js)
 - [Swapping Nodes in A Linked List](./Daily%20Challenges/Swapping%20Nodes%20in%20A%20Linked%20List/main.js)
 - [Swap Nodes in Pairs](./Daily%20Challenges/Swap%20Nodes%20in%20Pairs/main.js)
+- [Maximum Twin Sum of a Linked List](./Daily%20Challenges/Maximum%20Twin%20Sum%20of%20a%20Linked%20List/main.js)
 
 ## Algorithms
 
@@ -320,3 +321,4 @@
 - [Function Composition](./Extra/Function%20Composition/main.js)
 - [Curry](./Extra/Curry/main.ts)
 - [Promise Time Limit](./Extra/Promise%20Time%20Limit/main.js)
+- [Promise Pool](./Extra/Promise%20Pool/main.js)
