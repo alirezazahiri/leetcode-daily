@@ -93,6 +93,7 @@
 - [Swapping Nodes in A Linked List](./Daily%20Challenges/Swapping%20Nodes%20in%20A%20Linked%20List/main.js)
 - [Swap Nodes in Pairs](./Daily%20Challenges/Swap%20Nodes%20in%20Pairs/main.js)
 - [Maximum Twin Sum of a Linked List](./Daily%20Challenges/Maximum%20Twin%20Sum%20of%20a%20Linked%20List/main.js)
+- [Minimum Number of Vertices to Reach All Nodes](./Daily%20Challenges/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/main.js)
 
 ## Algorithms
 
@@ -322,3 +323,4 @@
 - [Curry](./Extra/Curry/main.ts)
 - [Promise Time Limit](./Extra/Promise%20Time%20Limit/main.js)
 - [Promise Pool](./Extra/Promise%20Pool/main.js)
+- [Cache With Time Limit](./Extra/Cache%20With%20Time%20Limit/main.js)
