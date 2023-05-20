@@ -95,6 +95,7 @@
 - [Maximum Twin Sum of a Linked List](./Daily%20Challenges/Maximum%20Twin%20Sum%20of%20a%20Linked%20List/main.js)
 - [Minimum Number of Vertices to Reach All Nodes](./Daily%20Challenges/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/main.js)
 - [Is Graph Bipartite ?](./Daily%20Challenges/Is%20Graph%20Bipartite/main.js)
+- [Evaluate Division](./Daily%20Challenges/Evaluate%20Division/main.js)
 
 ## Algorithms
 
