@@ -96,6 +96,7 @@
 - [Minimum Number of Vertices to Reach All Nodes](./Daily%20Challenges/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/main.js)
 - [Is Graph Bipartite ?](./Daily%20Challenges/Is%20Graph%20Bipartite/main.js)
 - [Evaluate Division](./Daily%20Challenges/Evaluate%20Division/main.js)
+- [Shortest Bridge](./Daily%20Challenges/Shortest%20Bridge/main.js)
 
 ## Algorithms
 
@@ -327,3 +328,5 @@
 - [Promise Pool](./Extra/Promise%20Pool/main.js)
 - [Cache With Time Limit](./Extra/Cache%20With%20Time%20Limit/main.js)
 - [Debounce](./Extra/Debounce/main.js)
+- [Throttle](./Extra/Throttle/main.js)
+- [JSON Deep Equal](./Extra/JSON%20Deep%20Equal/main.js)
