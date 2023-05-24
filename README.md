@@ -99,6 +99,7 @@
 - [Shortest Bridge](./Daily%20Challenges/Shortest%20Bridge/main.js)
 - [Top K Frequent Elements](./Daily%20Challenges/Top%20K%20Frequent%20Elements/main.js)
 - [Kth Largest Element in a Stream](./Daily%20Challenges/Kth%20Largest%20Element%20in%20a%20Stream/main.js)
+- [Maximum Subsequence Score](./Daily%20Challenges/)
 
 ## Algorithms
 
