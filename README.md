@@ -101,6 +101,7 @@
 - [Kth Largest Element in a Stream](./Daily%20Challenges/Kth%20Largest%20Element%20in%20a%20Stream/main.js)
 - [Maximum Subsequence Score](./Daily%20Challenges/Maximum%20Subsequence%20Score/main.js)
 - [New 21 Game](./Daily%20Challenges/New%2021%20Game/main.js)
+- [Stone Game II](./Daily%20Challenges/Stone%20Game%20II/main.js)
 
 ## Algorithms
 
