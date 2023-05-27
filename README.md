@@ -337,3 +337,4 @@
 - [Throttle](./Extra/Throttle/main.js)
 - [JSON Deep Equal](./Extra/JSON%20Deep%20Equal/main.js)
 - [Differences Between Two Objects](./Extra/Differences%20Between%20Two%20Objects/main.js)
+- [Array Prototype Last](./Extra/Array%20Prototype%20Last/main.js)
