@@ -102,6 +102,7 @@
 - [Maximum Subsequence Score](./Daily%20Challenges/Maximum%20Subsequence%20Score/main.js)
 - [New 21 Game](./Daily%20Challenges/New%2021%20Game/main.js)
 - [Stone Game II](./Daily%20Challenges/Stone%20Game%20II/main.js)
+- [Stone Game III](./Daily%20Challenges/Stone%20Game%20III/main.js)
 
 ## Algorithms
 
