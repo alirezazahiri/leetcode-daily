@@ -103,6 +103,7 @@
 - [New 21 Game](./Daily%20Challenges/New%2021%20Game/main.js)
 - [Stone Game II](./Daily%20Challenges/Stone%20Game%20II/main.js)
 - [Stone Game III](./Daily%20Challenges/Stone%20Game%20III/main.js)
+- [Min Cost to Cut a Stick](./Daily%20Challenges/Min%20Cost%20to%20Cut%20a%20Stick/main.js)
 
 ## Algorithms
 
