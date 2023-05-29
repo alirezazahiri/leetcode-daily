@@ -104,6 +104,7 @@
 - [Stone Game II](./Daily%20Challenges/Stone%20Game%20II/main.js)
 - [Stone Game III](./Daily%20Challenges/Stone%20Game%20III/main.js)
 - [Min Cost to Cut a Stick](./Daily%20Challenges/Min%20Cost%20to%20Cut%20a%20Stick/main.js)
+- [Desgin Parking System](./Daily%20Challenges/Desgin%20Parking%20System/main.js)
 
 ## Algorithms
 
