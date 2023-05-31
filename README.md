@@ -106,6 +106,7 @@
 - [Min Cost to Cut a Stick](./Daily%20Challenges/Min%20Cost%20to%20Cut%20a%20Stick/main.js)
 - [Desgin Parking System](./Daily%20Challenges/Desgin%20Parking%20System/main.js)
 - [Design HashSet](./Daily%20Challenges/Design%20HashSet/main.js)
+- [Design Underground System](./Daily%20Challenges/Design%20Underground%20System/main.js)
 
 ## Algorithms
 
