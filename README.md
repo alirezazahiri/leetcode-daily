@@ -343,3 +343,4 @@
 - [Differences Between Two Objects](./Extra/Differences%20Between%20Two%20Objects/main.js)
 - [Array Prototype Last](./Extra/Array%20Prototype%20Last/main.js)
 - [Call Function with Custom Context](./Extra/Call%20Function%20with%20Custom%20Context/main.js)
+- [Event Emitter](./Extra/Event%20Emitter/main.js)
