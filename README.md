@@ -107,6 +107,7 @@
 - [Desgin Parking System](./Daily%20Challenges/Desgin%20Parking%20System/main.js)
 - [Design HashSet](./Daily%20Challenges/Design%20HashSet/main.js)
 - [Design Underground System](./Daily%20Challenges/Design%20Underground%20System/main.js)
+- [Shortest Path in Binary Matrix](./Daily%20Challenges/Shortest%20Path%20in%20Binary%20Matrix/main.js)
 
 ## Algorithms
 
