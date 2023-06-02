@@ -108,6 +108,7 @@
 - [Design HashSet](./Daily%20Challenges/Design%20HashSet/main.js)
 - [Design Underground System](./Daily%20Challenges/Design%20Underground%20System/main.js)
 - [Shortest Path in Binary Matrix](./Daily%20Challenges/Shortest%20Path%20in%20Binary%20Matrix/main.js)
+- [Detonate the Maximum Bombs](./Daily%20Challenges/Detonate%20the%20Maximum%20Bombs/main.js)
 
 ## Algorithms
 
