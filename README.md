@@ -109,6 +109,7 @@
 - [Design Underground System](./Daily%20Challenges/Design%20Underground%20System/main.js)
 - [Shortest Path in Binary Matrix](./Daily%20Challenges/Shortest%20Path%20in%20Binary%20Matrix/main.js)
 - [Detonate the Maximum Bombs](./Daily%20Challenges/Detonate%20the%20Maximum%20Bombs/main.js)
+- [Time Needed to Inform All Employees](./Daily%20Challenges/Time%20Needed%20to%20Inform%20All%20Employees/main.js)
 
 ## Algorithms
 
