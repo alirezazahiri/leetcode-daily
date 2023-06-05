@@ -111,6 +111,7 @@
 - [Detonate the Maximum Bombs](./Daily%20Challenges/Detonate%20the%20Maximum%20Bombs/main.js)
 - [Time Needed to Inform All Employees](./Daily%20Challenges/Time%20Needed%20to%20Inform%20All%20Employees/main.js)
 - [Number of Provinces](./Daily%20Challenges/Number%20of%20Provinces/main.js)
+- [Check If It Is a Straight Line](./Daily%20Challenges/Check%20If%20It%20Is%20a%20Straight%20Line/main.js)
 
 ## Algorithms
 
