@@ -112,6 +112,7 @@
 - [Time Needed to Inform All Employees](./Daily%20Challenges/Time%20Needed%20to%20Inform%20All%20Employees/main.js)
 - [Number of Provinces](./Daily%20Challenges/Number%20of%20Provinces/main.js)
 - [Check If It Is a Straight Line](./Daily%20Challenges/Check%20If%20It%20Is%20a%20Straight%20Line/main.js)
+- [Can Make Arithmetic Progression From Sequence](./Daily%20Challenges/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/main.js)
 
 ## Algorithms
 
