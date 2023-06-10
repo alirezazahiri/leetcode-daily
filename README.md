@@ -116,6 +116,7 @@
 - [Minimum Flips to Make a OR b Equal to c](./Daily%20Challenges/Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/main.js)
 - [Count Negative Numbers in a Sorted Matrix](./Daily%20Challenges/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/main.js)
 - [Find Smallest Letter Greater Than Target](./Daily%20Challenges/Find%20Smallest%20Letter%20Greater%20Than%20Target/main.js)
+- [Maximum Value at a Given Index in a Bounded Array](./Daily%20Challenges/Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/main.js)
 
 ## Algorithms
 
