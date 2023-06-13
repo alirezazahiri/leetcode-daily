@@ -119,6 +119,7 @@
 - [Maximum Value at a Given Index in a Bounded Array](./Daily%20Challenges/Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/main.js)
 - [Snapshot Array](./Daily%20Challenges/Snapshot%20Array/main.js)
 - [Summary Ranges](./Daily%20Challenges/Summary%20Ranges/main.js)
+- [Equal Row and Column Pair](./Daily%20Challenges/Equal%20Row%20and%20Column%20Pair/main.js)
 
 ## Algorithms
 
