@@ -120,6 +120,7 @@
 - [Snapshot Array](./Daily%20Challenges/Snapshot%20Array/main.js)
 - [Summary Ranges](./Daily%20Challenges/Summary%20Ranges/main.js)
 - [Equal Row and Column Pair](./Daily%20Challenges/Equal%20Row%20and%20Column%20Pair/main.js)
+- [Minimum Absolute Difference in BST](./Daily%20Challenges/Minimum%20Absolute%20Difference%20in%20BST/main.js)
 
 ## Algorithms
 
