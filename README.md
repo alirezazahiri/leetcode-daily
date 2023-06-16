@@ -122,6 +122,7 @@
 - [Equal Row and Column Pair](./Daily%20Challenges/Equal%20Row%20and%20Column%20Pair/main.js)
 - [Minimum Absolute Difference in BST](./Daily%20Challenges/Minimum%20Absolute%20Difference%20in%20BST/main.js)
 - [Maximum Level Sum of a Binary Tree](./Daily%20Challenges/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/main.js)
+- [Number of Ways to Reorder Array to Get Same BST](./Daily%20Challenges/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/main.js)
 
 ## Algorithms
 
