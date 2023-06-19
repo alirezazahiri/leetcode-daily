@@ -125,6 +125,8 @@
 - [Number of Ways to Reorder Array to Get Same BST](./Daily%20Challenges/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/main.js)
 - [Make Array Strictly Increasing](./Daily%20Challenges/Make%20Array%20Strictly%20Increasing/main.js)
 - [Number of Increasing Paths in a Grid](./Daily%20Challenges/Number%20of%20Increasing%20Paths%20in%20a%20Grid/main.js)
+- [Find the Highest Altitude](./Daily%20Challenges/Find%20the%20Highest%20Altitude/main.js)
+
 
 ## Algorithms
 
