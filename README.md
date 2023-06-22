@@ -128,6 +128,8 @@
 - [Find the Highest Altitude](./Daily%20Challenges/Find%20the%20Highest%20Altitude/main.js)
 - [K Radius Subarray Averages](./Daily%20Challenges/K%20Radius%20Subarray%20Averages/main.js)
 - [Minimum Cost to Make Array Equal](./Daily%20Challenges/Minimum%20Cost%20to%20Make%20Array%20Equal/main.py)
+- [Best Time to Buy and Sell Stock with Transaction Fee](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/main.js)
+
 
 ## Algorithms
 
