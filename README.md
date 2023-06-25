@@ -131,6 +131,7 @@
 - [Best Time to Buy and Sell Stock with Transaction Fee](./Daily%20Challenges/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/main.js)
 - [Longest Arithmetic Subsequence](./Daily%20Challenges/Longest%20Arithmetic%20Subsequence/main.js)
 - [Tallest Billboard](./Daily%20Challenges/Tallest%20Billboard/main.js)
+- [Count All Possible Routes](./Daily%20Challenges/Count%20All%20Possible%20Routes/main.js)
 
 ## Algorithms
 
