@@ -132,6 +132,7 @@
 - [Longest Arithmetic Subsequence](./Daily%20Challenges/Longest%20Arithmetic%20Subsequence/main.js)
 - [Tallest Billboard](./Daily%20Challenges/Tallest%20Billboard/main.js)
 - [Count All Possible Routes](./Daily%20Challenges/Count%20All%20Possible%20Routes/main.js)
+- [Total Cost to Hire K Workers](./Daily%20Challenges/Total%20Cost%20to%20Hire%20K%20Workers/main.js)
 
 ## Algorithms
 
