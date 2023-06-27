@@ -133,6 +133,7 @@
 - [Tallest Billboard](./Daily%20Challenges/Tallest%20Billboard/main.js)
 - [Count All Possible Routes](./Daily%20Challenges/Count%20All%20Possible%20Routes/main.js)
 - [Total Cost to Hire K Workers](./Daily%20Challenges/Total%20Cost%20to%20Hire%20K%20Workers/main.js)
+- [Find K Pairs with Smallest Sums](./Daily%20Challenges/Find%20K%20Pairs%20with%20Smallest%20Sums/main.js)
 
 ## Algorithms
 
