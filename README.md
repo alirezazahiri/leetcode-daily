@@ -134,6 +134,7 @@
 - [Count All Possible Routes](./Daily%20Challenges/Count%20All%20Possible%20Routes/main.js)
 - [Total Cost to Hire K Workers](./Daily%20Challenges/Total%20Cost%20to%20Hire%20K%20Workers/main.js)
 - [Find K Pairs with Smallest Sums](./Daily%20Challenges/Find%20K%20Pairs%20with%20Smallest%20Sums/main.js)
+- [Path With Maximum Probability](./Daily%20Challenges/Path%20With%20Maximum%20Probability/main.js)
 
 ## Algorithms
 
