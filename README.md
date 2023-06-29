@@ -135,6 +135,7 @@
 - [Total Cost to Hire K Workers](./Daily%20Challenges/Total%20Cost%20to%20Hire%20K%20Workers/main.js)
 - [Find K Pairs with Smallest Sums](./Daily%20Challenges/Find%20K%20Pairs%20with%20Smallest%20Sums/main.js)
 - [Path With Maximum Probability](./Daily%20Challenges/Path%20With%20Maximum%20Probability/main.js)
+- [Shortest Path to Get All Keys](./Daily%20Challenges/Shortest%20Path%20to%20Get%20All%20Keys/main.js)
 
 ## Algorithms
 
