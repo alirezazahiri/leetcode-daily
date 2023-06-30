@@ -136,6 +136,7 @@
 - [Find K Pairs with Smallest Sums](./Daily%20Challenges/Find%20K%20Pairs%20with%20Smallest%20Sums/main.js)
 - [Path With Maximum Probability](./Daily%20Challenges/Path%20With%20Maximum%20Probability/main.js)
 - [Shortest Path to Get All Keys](./Daily%20Challenges/Shortest%20Path%20to%20Get%20All%20Keys/main.js)
+- [Last Day Where You Can Still Cross](./Daily%20Challenges/Last%20Day%20Where%20You%20Can%20Still%20Cross/main.js)
 
 ## Algorithms
 
