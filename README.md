@@ -139,6 +139,7 @@
 - [Last Day Where You Can Still Cross](./Daily%20Challenges/Last%20Day%20Where%20You%20Can%20Still%20Cross/main.js)
 - [Fair Distribution of Cookies](./Daily%20Challenges/Fair%20Distribution%20of%20Cookies/main.js)
 - [Maximum Number of Achievable Transfer Requests](./Daily%20Challenges/Maximum%20Number%20of%20Achievable%20Transfer%20Requests/main.js)
+- [Buddy Strings](./Daily%20Challenges/Buddy%20Strings/main.js)
 
 ## Algorithms
 
