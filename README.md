@@ -140,6 +140,7 @@
 - [Fair Distribution of Cookies](./Daily%20Challenges/Fair%20Distribution%20of%20Cookies/main.js)
 - [Maximum Number of Achievable Transfer Requests](./Daily%20Challenges/Maximum%20Number%20of%20Achievable%20Transfer%20Requests/main.js)
 - [Buddy Strings](./Daily%20Challenges/Buddy%20Strings/main.js)
+- [Single Number II](./Daily%20Challenges/Single%20Number%20II/main.js)
 
 ## Algorithms
 
