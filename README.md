@@ -142,6 +142,7 @@
 - [Buddy Strings](./Daily%20Challenges/Buddy%20Strings/main.js)
 - [Single Number II](./Daily%20Challenges/Single%20Number%20II/main.js)
 - [Longest Subarray of 1's After Deleting One Element](./Daily%20Challenges/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/main.js)
+- [Minimum Size Subarray Sum](./Daily%20Challenges/Minimum%20Size%20Subarray%20Sum/main.js)
 
 ## Algorithms
 
