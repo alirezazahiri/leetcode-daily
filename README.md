@@ -145,6 +145,7 @@
 - [Minimum Size Subarray Sum](./Daily%20Challenges/Minimum%20Size%20Subarray%20Sum/main.js)
 - [Maximize the Confusion of an Exam](./Daily%20Challenges/Maximize%20the%20Confusion%20of%20an%20Exam/main.js)
 - [Put Marbles in Bags](./Daily%20Challenges/Put%20Marbles%20in%20Bags/main.js)
+- [Substring With Largest Variance](./Daily%20Challenges/Substring%20With%20Largest%20Variance/main.js)
 
 ## Algorithms
 
