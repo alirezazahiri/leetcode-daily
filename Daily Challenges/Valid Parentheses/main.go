@@ -2,26 +2,26 @@ package validparentheses
 
 type Stack struct {
 	items []rune
-	head  uint32
-	tail  uint32
+	head  uint16
+	tail  uint16
 }
 
-func NewStack() *Stack {
+func NewStack(size int) *Stack {
 	return &Stack{
-		items: make([]rune, 0),
+		items: make([]rune, size),
 		head:  0,
 		tail:  0,
 	}
 }
 
 func (s *Stack) push(ch rune) {
-	s.items = append(s.items[:s.tail], ch)
+	s.items[s.tail] = ch
 	s.tail++
 }
 
 func (s *Stack) pop() rune {
 	if s.tail <= 0 {
-		return '-'
+		return -1
 	}
 	value := s.items[s.tail-1]
 	s.tail--
@@ -54,7 +54,7 @@ func isValid(s string) bool {
 		return false
 	}
 
-	stack := NewStack()
+	stack := NewStack(len(s))
 
 	for _, ch := range s {
 		if isOpening(ch) {
