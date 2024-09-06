@@ -42,11 +42,6 @@ func main() {
 		&ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 4}}},
 		&ListNode{Val: 1, Next: &ListNode{Val: 3, Next: &ListNode{Val: 4}}})
 	fmt.Println(res1)
-	fmt.Println(res1.Next)
-	fmt.Println(res1.Next.Next)
-	fmt.Println(res1.Next.Next.Next)
-	fmt.Println(res1.Next.Next.Next.Next)
-	fmt.Println(res1.Next.Next.Next.Next.Next)
 	fmt.Println("------------------------------------")
 	fmt.Println(mergeTwoLists(
 		nil,
