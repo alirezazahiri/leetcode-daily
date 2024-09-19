@@ -29,6 +29,20 @@ func twoSum(nums []int, target int) []int {
 	return nil
 }
 
+func twoSumHashMap(nums []int, target int) []int {
+	table := make(map[int]int)
+
+    for i, num := range nums {
+        idx, ok := table[target - num]
+        if ok {
+            return []int{idx, i}
+        }
+        table[num] = i
+    }
+    
+    return nil 
+}
+
 func main() {
 	fmt.Println(twoSum([]int{2, 7, 11, 15}, 9))
 	fmt.Println("--------------------")
