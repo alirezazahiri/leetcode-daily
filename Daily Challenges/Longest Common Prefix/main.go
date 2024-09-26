@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+	"strings"
+)
 
 func longestCommonPrefix(strs []string) string {
 	minLen := len(strs[0])
@@ -27,7 +31,25 @@ func longestCommonPrefix(strs []string) string {
 	return prefix[:minLen]
 }
 
+func longestCommonPrefixWithSorting(strs []string) string {
+	length := len(strs) 
+	sort.Strings(strs)
+	
+	first, last := strs[0], strs[length - 1]
+
+	var res strings.Builder
+
+	for i := 0; i < len(first); i++ {
+		if first[i] != last[i] {
+			break
+		}
+		res.WriteRune(rune(first[i]))
+	}
+
+	return res.String()
+}
+
 func main() {
-	fmt.Println(longestCommonPrefix([]string{"flower", "flow", "flight"}))
-	fmt.Println(longestCommonPrefix([]string{"dog", "racecar", "car"}))
+	fmt.Println(longestCommonPrefixWithSorting([]string{"flower", "flow", "flight"}))
+	fmt.Println(longestCommonPrefixWithSorting([]string{"dog", "racecar", "car"}))
 }
