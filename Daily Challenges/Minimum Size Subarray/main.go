@@ -36,8 +36,8 @@ func minSubArrayLen(target int, nums []int) int {
 }
 
 func main() {
-	// fmt.Println(minSubArrayLen(7, []int{2, 3, 1, 2, 4, 3}))
-	// fmt.Println(minSubArrayLen(4, []int{1, 4, 4}))
-	// fmt.Println(minSubArrayLen(11, []int{1, 1, 1, 1, 1, 1, 1, 1}))
+	fmt.Println(minSubArrayLen(7, []int{2, 3, 1, 2, 4, 3}))
+	fmt.Println(minSubArrayLen(4, []int{1, 4, 4}))
+	fmt.Println(minSubArrayLen(11, []int{1, 1, 1, 1, 1, 1, 1, 1}))
 	fmt.Println(minSubArrayLen(11, []int{1, 2, 3, 4, 5}))
 }
