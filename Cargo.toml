@@ -1,0 +1,9 @@
+[package]
+name = "leetcode-daily"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[[bin]]
+name = "valid_palindrome"
+path = "Daily Challenges/Valid Palindrome/main.rs"
