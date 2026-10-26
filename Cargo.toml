@@ -7,3 +7,11 @@ publish = false
 [[bin]]
 name = "valid_palindrome"
 path = "Daily Challenges/Valid Palindrome/main.rs"
+
+[[bin]]
+name = "remove_element"
+path = "Daily Challenges/Remove Element/main.rs"
+
+[[bin]]
+name = "str_str"
+path = "Daily Challenges/Find the Index of the First Occurrence in a String/main.rs"
