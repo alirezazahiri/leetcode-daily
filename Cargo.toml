@@ -15,3 +15,7 @@ path = "Daily Challenges/Remove Element/main.rs"
 [[bin]]
 name = "str_str"
 path = "Daily Challenges/Find the Index of the First Occurrence in a String/main.rs"
+
+[[bin]]
+name = "remove_duplicates"
+path = "Daily Challenges/Remove Duplicates from sorted Array/main.rs"
