@@ -23,3 +23,7 @@ path = "Daily Challenges/Remove Duplicates from sorted Array/main.rs"
 [[bin]]
 name = "merge"
 path = "Daily Challenges/Merge Sorted Array/main.rs"
+
+[[bin]]
+name = "sort_colors"
+path = "Daily Challenges/Sort Colors/main.rs"
