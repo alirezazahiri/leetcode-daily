@@ -33,7 +33,7 @@ fn decrypt_sol1(code: Vec<i32>, k: i32) -> Vec<i32> {
     let abs_k = (if k > 0 { k } else { -k }) as usize;
 
     if k == 0 {
-        return (0..n).into_iter().map(|_| 0).collect();
+        return vec![0; n];
     }
 
     for i in 0..n {
