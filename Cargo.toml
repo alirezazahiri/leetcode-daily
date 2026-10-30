@@ -27,3 +27,7 @@ path = "Daily Challenges/Merge Sorted Array/main.rs"
 [[bin]]
 name = "sort_colors"
 path = "Daily Challenges/Sort Colors/main.rs"
+
+[[bin]]
+name = "minimum_recolors"
+path = "Daily Challenges/Minimum Recolors to Get K Consecutive Black Blocks/main.rs"
