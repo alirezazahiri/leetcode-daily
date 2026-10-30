@@ -31,3 +31,11 @@ path = "Daily Challenges/Sort Colors/main.rs"
 [[bin]]
 name = "minimum_recolors"
 path = "Daily Challenges/Minimum Recolors to Get K Consecutive Black Blocks/main.rs"
+
+[[bin]]
+name = "decrypt"
+path = "Daily Challenges/Defuse The Bomb/main.rs"
+
+[[bin]]
+name = "two_sum"
+path = "Daily Challenges/Two Sum II - Input Array Is Sorted/main.rs"
