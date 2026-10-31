@@ -39,3 +39,24 @@ path = "Daily Challenges/Defuse The Bomb/main.rs"
 [[bin]]
 name = "two_sum"
 path = "Daily Challenges/Two Sum II - Input Array Is Sorted/main.rs"
+
+[[bin]]
+name = "fib"
+path = "Daily Challenges/Fibonacci Number/main.rs"
+
+[[bin]]
+name = "reverse_string"
+path = "Daily Challenges/Reverse String/main.rs"
+
+[[bin]]
+name = "reverse"
+path = "Daily Challenges/Reverse Integer/main.rs"
+
+[[bin]]
+name = "is_power_of_three"
+path = "Daily Challenges/Power of Three/main.rs"
+
+[[bin]]
+name = "convert_to_base7"
+path = "Daily Challenges/Base 7/main.rs"
+
