@@ -60,3 +60,7 @@ path = "Daily Challenges/Power of Three/main.rs"
 name = "convert_to_base7"
 path = "Daily Challenges/Base 7/main.rs"
 
+[[bin]]
+name = "total_numbers"
+path = "Daily Challenges/Unique 3-Digit Even Numbers/main.rs"
+
