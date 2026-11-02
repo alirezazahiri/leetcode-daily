@@ -64,3 +64,7 @@ path = "Daily Challenges/Base 7/main.rs"
 name = "total_numbers"
 path = "Daily Challenges/Unique 3-Digit Even Numbers/main.rs"
 
+[[bin]]
+name = "letter_combinations"
+path = "Daily Challenges/Letter Combinations of a Phone Number/main.rs"
+
