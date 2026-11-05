@@ -68,3 +68,6 @@ path = "Daily Challenges/Unique 3-Digit Even Numbers/main.rs"
 name = "letter_combinations"
 path = "Daily Challenges/Letter Combinations of a Phone Number/main.rs"
 
+[[bin]]
+name = "coin_change"
+path = "Daily Challenges/Coin Change/main.rs"
