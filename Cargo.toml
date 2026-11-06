@@ -71,3 +71,7 @@ path = "Daily Challenges/Letter Combinations of a Phone Number/main.rs"
 [[bin]]
 name = "coin_change"
 path = "Daily Challenges/Coin Change/main.rs"
+
+[[bin]]
+name = "read_binary_watch"
+path = "Daily Challenges/Binary Watch/main.rs"
