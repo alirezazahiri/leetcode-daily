@@ -75,3 +75,7 @@ path = "Daily Challenges/Coin Change/main.rs"
 [[bin]]
 name = "read_binary_watch"
 path = "Daily Challenges/Binary Watch/main.rs"
+
+[[bin]]
+name = "search"
+path = "Algorithm I/Binary Search/main.rs"
