@@ -79,3 +79,7 @@ path = "Daily Challenges/Binary Watch/main.rs"
 [[bin]]
 name = "search"
 path = "Algorithm I/Binary Search/main.rs"
+
+[[bin]]
+name = "get_concatenation"
+path = "Daily Challenges/Concatenation of an Array/main.rs"
