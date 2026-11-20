@@ -83,3 +83,7 @@ path = "Algorithm I/Binary Search/main.rs"
 [[bin]]
 name = "get_concatenation"
 path = "Daily Challenges/Concatenation of an Array/main.rs"
+
+[[bin]]
+name = "build_array"
+path = "Daily Challenges/Build Array from Permutation/main.rs"
