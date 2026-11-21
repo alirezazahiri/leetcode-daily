@@ -87,3 +87,7 @@ path = "Daily Challenges/Concatenation of an Array/main.rs"
 [[bin]]
 name = "build_array"
 path = "Daily Challenges/Build Array from Permutation/main.rs"
+
+[[bin]]
+name = "final_value_after_operations"
+path = "Daily Challenges/Final Value of Variable After Performing Operations/main.rs"
