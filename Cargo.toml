@@ -91,3 +91,8 @@ path = "Daily Challenges/Build Array from Permutation/main.rs"
 [[bin]]
 name = "final_value_after_operations"
 path = "Daily Challenges/Final Value of Variable After Performing Operations/main.rs"
+
+
+[[bin]]
+name = "num_identical_pairs"
+path = "Daily Challenges/Number of Good Pairs/main.rs"
