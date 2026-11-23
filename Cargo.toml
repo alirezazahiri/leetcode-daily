@@ -100,3 +100,8 @@ path = "Daily Challenges/Number of Good Pairs/main.rs"
 [[bin]]
 name = "minimum_operations"
 path = "Daily Challenges/Find Minimum Operations to Make All Elements Divisible by Three/main.rs"
+
+
+[[bin]]
+name = "find_the_prefix_common_array"
+path = "Daily Challenges/Find the Prefix Common Array of Two Arrays/main.rs"
