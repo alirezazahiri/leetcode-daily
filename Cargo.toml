@@ -96,3 +96,7 @@ path = "Daily Challenges/Final Value of Variable After Performing Operations/mai
 [[bin]]
 name = "num_identical_pairs"
 path = "Daily Challenges/Number of Good Pairs/main.rs"
+
+[[bin]]
+name = "minimum_operations"
+path = "Daily Challenges/Find Minimum Operations to Make All Elements Divisible by Three/main.rs"
