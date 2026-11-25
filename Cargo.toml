@@ -105,3 +105,7 @@ path = "Daily Challenges/Find Minimum Operations to Make All Elements Divisible 
 [[bin]]
 name = "find_the_prefix_common_array"
 path = "Daily Challenges/Find the Prefix Common Array of Two Arrays/main.rs"
+
+[[bin]]
+name = "number_of_recent_calls"
+path = "Daily Challenges/Number of Recent Calls/main.rs"
