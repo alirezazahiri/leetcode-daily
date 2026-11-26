@@ -109,3 +109,7 @@ path = "Daily Challenges/Find the Prefix Common Array of Two Arrays/main.rs"
 [[bin]]
 name = "number_of_recent_calls"
 path = "Daily Challenges/Number of Recent Calls/main.rs"
+
+[[bin]]
+name = "time_required_to_buy"
+path = "Daily Challenges/Time Needed to Buy Tickets/main.rs"
