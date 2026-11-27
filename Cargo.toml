@@ -113,3 +113,7 @@ path = "Daily Challenges/Number of Recent Calls/main.rs"
 [[bin]]
 name = "time_required_to_buy"
 path = "Daily Challenges/Time Needed to Buy Tickets/main.rs"
+
+[[bin]]
+name = "last_stone_weight"
+path = "LeetCode 75/Last Stone Weight/main.rs"
